@@ -1,5 +1,4 @@
 #set is a colection of non repetitive elements and well defined and unordered data/objects
-#set is mutable
 # a={1,2,3,4,5}
 # print(type(a))
 # print(a)
