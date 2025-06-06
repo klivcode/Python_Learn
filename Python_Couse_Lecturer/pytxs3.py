@@ -1,0 +1,4 @@
+import pyttsx3
+engine = pyttsx3.init()
+engine.say("""Twinkle, Twinkle, Little Star" is an English lullaby. The lyrics are from an early-19th-century English poem written by Jane Taylor, "The Star". The poem, which is in couplet form, was first published in 1806 in Rhymes for the Nursery, a collection of poems by Taylor and her sister Ann. It is now sung to the tune of the French melody "Ah! vous dirai-je, maman", which was first published in 1761 and later arranged by several composers, including Mozart with Twelve Variations on "Ah vous dirai-je, Maman" K. 265/300e in 1781. The song is often used as a lullaby for children and has become one of the most popular nursery rhymes in the English-speaking world.""")
+engine.runAndWait()
