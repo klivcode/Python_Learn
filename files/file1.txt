@@ -1,1 +1,2 @@
-KlivCode is a good boy.
+Python is a programming languagePython is a programming language and it is used for web development, data science, machine learning, and many other fields.
+Python is a high-level, interpreted language that is known for its simplicity and readability.
