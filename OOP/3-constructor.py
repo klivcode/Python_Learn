@@ -4,4 +4,4 @@ class Student:
         self.age = age
 
 shiva = Student("Shiva", 20)
-print(shiva.name, shiva.age)
+print(shiva.name, shiva.age) 
