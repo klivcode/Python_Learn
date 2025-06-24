@@ -1,0 +1,14 @@
+pip install virtualenv
+# To create a virtual environment
+virtualenv myproject
+# To activate (on Windows PowerShell)
+.\myproject\Scripts\Activate.ps1
+
+pip freeze
+# Shows all installed dependencies
+
+# To write dependencies to a file
+pip freeze > requirements.txt
+
+# To recreate the environment by installing all dependencies from the file
+pip install -r requirements.txt
